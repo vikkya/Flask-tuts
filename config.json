@@ -1,0 +1,15 @@
+{
+    "params": {
+        "local_server": true,
+        "local_uri": "mysql://root:@localhost/codingThunder",
+        "prod_url": "mysql://root:@localhost/codingThunder",
+        "blog_name": "Coding Thunder",
+        "tag_line": "Blog tag line here",
+        "gmail_user": "ytubeindia2@gmail.com",
+        "gmail_password": "letmeguess",
+        "admin_user": "vikky",
+        "admin_password": "letmeguess",
+        "upload_location": "C:\\xampp\\htdocs\\Flask-tut",
+        "no_of_posts": 2
+    }
+}
